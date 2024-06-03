@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rand0mAsianKid
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Coding and Robotics
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: totallynotrandomasiankid@gmail.com
 
 <!---
