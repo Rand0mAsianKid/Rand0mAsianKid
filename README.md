@@ -19,11 +19,9 @@ Contact
 -Email: matthewlum28@gmail.com
 
 ------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
