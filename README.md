@@ -20,7 +20,7 @@ Contact
 
 Contributed to
 ------------------------------
-[RobotCode2024 Team 199](https://github.com/DeepBlueRobotics/RobotCode2024) 
+[FRC Team 199 RobotCode2024](https://github.com/DeepBlueRobotics/RobotCode2024) 
 
 ------------------------------
 <picture>
