@@ -14,13 +14,13 @@ Personal Projects
 -----------------------------------------
 -None yet
 
-Contact
------------------------------
--Email: matthewlum28@gmail.com
-
 Contributed to
 ------------------------------
 [FRC Team 199 RobotCode2024](https://github.com/DeepBlueRobotics/RobotCode2024) 
+
+Contact
+-----------------------------
+-Email: matthewlum28@gmail.com
 
 ------------------------------
 <picture>
