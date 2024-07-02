@@ -2,7 +2,7 @@ Hello, I'm Rand0mAsianKid!!!
 -------------------------------------------
 About Me
 -------------------------------------------
--Curently a student at Carlmont High School
+-Student at Carlmont High School
 
 -Programmer for FRC team 199
 
