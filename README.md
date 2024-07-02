@@ -10,7 +10,7 @@ About Me
 
 -looking into image recognition and web development
 
-Projects
+Personal Projects
 -----------------------------------------
 -None yet
 
