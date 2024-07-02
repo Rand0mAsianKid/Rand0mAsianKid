@@ -22,6 +22,8 @@ Contact
 -----------------------------
 -Email: matthewlum28@gmail.com
 
+-[LinkedIn](https://www.linkedin.com/in/matthew-lum-75a45b305/)
+
 ------------------------------
 <picture>
   <source
