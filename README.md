@@ -6,6 +6,8 @@ About Me
 
 -Programmer for FRC team 199
 
+-Robotics mentor for VEX IQ WeRobots
+
 -Currently learning Java and Python
 
 -looking into image recognition and web development
