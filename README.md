@@ -1,6 +1,5 @@
-.js-pick-reaction .emoji {
-	font-size: 1.8em;
-}👋 System.out.print("Hello, I'm Matthew Lum");
+👋 **System.out.print("Hello, I'm Matthew Lum");** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 -------------------------------------------
 About Me
 -------------------------------------------
