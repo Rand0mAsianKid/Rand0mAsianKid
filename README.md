@@ -1,6 +1,6 @@
 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=small&pause=1000&color=000000&center=true&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(Hello%2C+I'm+Matthew+Lum);%F0%9F%91%8B)](https://git.io/typing-svg)👋
 -------------------------------------------
-🖥️**About Me**
+**About Me**😎
 -------------------------------------------
 -Student at Carlmont High School 🏫
 
@@ -12,11 +12,11 @@
 
 -working on image recognition, and web development ⌨️
 
-Personal Projects
+Personal Projects🖥️
 -----------------------------------------
-[IPSR (still currently working on)](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): 
+[IPSR](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): A Flask website that uses the ChatGPT API to detect and recognize invasive plant species.
 
-[SAT Website Checker](https://github.com/Rand0mAsianKid/SAT-Website-Checker)
+[SAT Website Checker](https://github.com/Rand0mAsianKid/SAT-Website-Checker) : An application that checks the College Board SAT site for any updates and emails the users if it sees changes
 
 Contributed to
 ------------------------------
