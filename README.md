@@ -1,5 +1,5 @@
 👋 **System.out.print("Hello, I'm Matthew Lum");** 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.print("Hello, I'm Matthew Lum");)](https://git.io/typing-svg)
 -------------------------------------------
 About Me
 -------------------------------------------
