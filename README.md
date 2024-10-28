@@ -1,4 +1,6 @@
-👋 System.out.print("Hello, I'm Matthew Lum");
+.js-pick-reaction .emoji {
+	font-size: 1.8em;
+}👋 System.out.print("Hello, I'm Matthew Lum");
 -------------------------------------------
 About Me
 -------------------------------------------
