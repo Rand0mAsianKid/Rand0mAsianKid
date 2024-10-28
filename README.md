@@ -10,7 +10,7 @@
 
 -Currently learning Java and Python 💻
 
--looking into image recognition and web development ⌨️
+-working on image recognition, and web development ⌨️
 
 Personal Projects
 -----------------------------------------
