@@ -1,7 +1,6 @@
 👋 **System.out.print("Hello, I'm Matthew Lum");** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+System.out.print("Hello,+I'mMatthewLum");+👋)](https://git.io/typing-svg)
--------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=small&pause=1000&color=000000&center=true&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(%22Hello%2C+I'm+Matthew+Lum%22);%F0%9F%91%8B)](https://git.io/typing-svg)-------------------------------------------
 About Me
 -------------------------------------------
 -Student at Carlmont High School
