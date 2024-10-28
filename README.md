@@ -1,20 +1,20 @@
 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=small&pause=1000&color=000000&center=true&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(Hello%2C+I'm+Matthew+Lum);%F0%9F%91%8B)](https://git.io/typing-svg)👋
 -------------------------------------------
-💻**About Me**
+🖥️**About Me**
 -------------------------------------------
--Student at Carlmont High School
+-Student at Carlmont High School 🏫
 
--Programmer for FRC team 199
+-Programmer for FRC team 199 👨‍💻 
 
--Robotics mentor for VEX IQ WeRobots
+-Robotics mentor for VEX IQ WeRobots 🤖 
 
--Currently learning Java and Python
+-Currently learning Java and Python 💻
 
--looking into image recognition and web development
+-looking into image recognition and web development ⌨️
 
 Personal Projects
 -----------------------------------------
-[IPSR (still currently working on)](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website) 
+[IPSR (still currently working on)](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): 
 
 [SAT Website Checker](https://github.com/Rand0mAsianKid/SAT-Website-Checker)
 
