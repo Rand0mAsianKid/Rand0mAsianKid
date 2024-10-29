@@ -24,7 +24,7 @@ Contributed to
 
 Contact
 -----------------------------
--[Email] (randmasiankid@gmail.com)
+-[Email](randmasiankid@gmail.com)
 
 -[LinkedIn](https://www.linkedin.com/in/matthew-lum-75a45b305/)
 ------------------------------
