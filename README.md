@@ -7,13 +7,15 @@
 -------------------------------------------
 -Student at Carlmont High School 🏫
 
--Programmer for FRC team 199 👨‍💻 
+-Programmer for FRC team 199 🦾 
 
 -Robotics mentor for VEX IQ WeRobots 🤖 
 
+-2 years of programming experience 👨‍💻 
+
 -Currently learning Java and Python 💻
 
--working on image recognition, and web development ⌨️
+-Working on image recognition, and web development ⌨️
 
 Personal Projects🖥️
 -----------------------------------------
