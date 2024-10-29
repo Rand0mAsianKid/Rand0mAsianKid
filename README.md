@@ -42,17 +42,8 @@ Social Media
 
 📊Stats
 ------------------------------
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&show_icons=true" />
-</picture>
+![Rand0mAsianKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&theme=dark&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rand0mAsianKid&size_weight=0.5&count_weight=0.5)
 
