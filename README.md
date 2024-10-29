@@ -47,4 +47,5 @@ Social Media
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rand0mAsianKid&theme=dark&show_size_weight=0.5&count_weight=0.5)
 
+![](https://komarev.com/ghpvc/?username=your-github-Rand0mAsianKid)
 
