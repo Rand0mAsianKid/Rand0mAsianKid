@@ -37,10 +37,6 @@ Social Media⚡
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-https://raw.githubusercontent.com/CLorant/readme-social-icons/main/[image](https://github.com/user-attachments/assets/3be6caf6-a689-4369-aaee-0abdd4b5f4b5)
-
-
 ------------------------------
 
 Stats📊
