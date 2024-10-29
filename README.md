@@ -1,8 +1,7 @@
 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=small&pause=1000&color=000000&center=true&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(Hello%2C+I'm+Matthew+Lum);%F0%9F%91%8B)](https://git.io/typing-svg)👋
 -------------------------------------------
-![download](https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57) Hello Fellow programmers, this is my Github Page ![download](https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57)
+<a href="url"><img src="https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57" align="left" height="48" width="48" ></a> Hello Fellow programmers, this is my Github Page ![download](https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57)
 
-<a href="url"><img src="https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57" align="left" height="48" width="48" ></a>
 -------------------------------------------
 **About Me**😎
 -------------------------------------------
