@@ -26,7 +26,7 @@ Contributed to
 ------------------------------
 [RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
-Social Media
+Social Media⚡
 -----------------------------
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/matthew-lum-75a45b305/)">
@@ -40,7 +40,7 @@ Social Media
 
 ------------------------------
 
-📊Stats
+Stats📊
 ------------------------------
 ![Rand0mAsianKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&theme=dark&show_icons=true)
 
