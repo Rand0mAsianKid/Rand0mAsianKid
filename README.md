@@ -27,14 +27,17 @@ Contributed to
 ------------------------------
 [RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
-Contact
+Social Media
 -----------------------------
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/matthew-lum-75a45b305/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> &nbsp;&nbsp;&nbsp;   <a[ href="your-youtube-URL](https://www.youtube.com/@Rand0mAsianKid-e3v)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> &nbsp;&nbsp;&nbsp; <a href="[your-twitter-URL](https://x.com/asian77496)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
 
 ------------------------------
 
