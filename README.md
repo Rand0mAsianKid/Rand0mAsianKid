@@ -38,7 +38,7 @@ Social Media⚡
   </a>
 </div>
 
-https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/(https://github.com/user-attachments/assets/1517126d-6e73-4677-828d-3aa26bbbfea4)
+https://raw.githubusercontent.com/CLorant/readme-social-icons/main/(https://github.com/user-attachments/assets/1517126d-6e73-4677-828d-3aa26bbbfea4)
 
 ------------------------------
 
