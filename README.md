@@ -1,4 +1,4 @@
-👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=F73511&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(%22Hello%2C+I+am+Matthew+Lum);)](https://git.io/typing-svg)👋
+👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=F73511&width=435&separator=%3C&lines=%F0%9F%91%8BSystem.out.print(%22Hello%2C+I+am+Matthew+Lum);)](https://git.io/typing-svg) 👋
 -------------------------------------------
 <img src="https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57" width=3% height=3%> Hello Fellow programmers, this is my Github Page <img src="https://github.com/user-attachments/assets/6e7ee6e2-2b30-4833-83aa-ee006cc01a57" width=3% height=3%>
 
