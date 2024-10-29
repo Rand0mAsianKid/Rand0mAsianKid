@@ -29,7 +29,7 @@ Contributed to
 
 Contact
 -----------------------------
-**-[Email](randmasiankid@gmail.com)**![Uplo<svg width="3" height="3" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+**-[Email](randmasiankid@gmail.com)**![Uplo<svg width="3" height="3" viewBox="0 0 3 3" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1316_2033)">
 <circle cx="250" cy="250" r="250" fill="white"/>
 <path d="M164.07 368.933V244.128L92 188.757V342.566C92 360.144 100.789 368.933 118.367 368.933" fill="#4285F4"/>
