@@ -30,8 +30,6 @@ Contributed to
 Contact
 -----------------------------
 **-[<img src="https://github.com/user-attachments/assets/622bb471-f934-4b47-a9ce-4bb275df6bc5" width=3% height=3%>](randmasiankid@gmail.com)**
-![Gmail_Logo_512px](https://github.com/user-attachments/assets/622bb471-f934-4b47-a9ce-4bb275df6bc5)
-
 
 **-[LinkedIn](https://www.linkedin.com/in/matthew-lum-75a45b305/)**
 
