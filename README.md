@@ -22,7 +22,7 @@ Personal Projects🖥️
 
 [SAT Website Checker📃](https://github.com/Rand0mAsianKid/SAT-Website-Checker): An application that checks the College Board SAT site for any updates and emails the users if it sees changes
 
-Contributed to
+Contributed To
 ------------------------------
 [RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
