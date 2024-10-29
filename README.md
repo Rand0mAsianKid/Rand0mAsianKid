@@ -24,7 +24,7 @@ Contributed to
 
 Contact
 -----------------------------
--Email: matthewlum28@gmail.com
+-[Email] (randmasiankid@gmail.com)
 
 -[LinkedIn](https://www.linkedin.com/in/matthew-lum-75a45b305/)
 ------------------------------
