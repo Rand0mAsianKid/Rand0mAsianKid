@@ -16,11 +16,11 @@ Personal Projects🖥️
 -----------------------------------------
 [IPSR](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): A Flask website that uses the ChatGPT API to detect and recognize invasive plant species.
 
-[SAT Website Checker](https://github.com/Rand0mAsianKid/SAT-Website-Checker) : An application that checks the College Board SAT site for any updates and emails the users if it sees changes
+[SAT Website Checker](https://github.com/Rand0mAsianKid/SAT-Website-Checker): An application that checks the College Board SAT site for any updates and emails the users if it sees changes
 
 Contributed to
 ------------------------------
-[RobotCode2024](https://github.com/DeepBlueRobotics/RobotCode2024) 
+[RobotCode2024](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
 Contact
 -----------------------------
