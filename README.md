@@ -38,7 +38,8 @@ Social Media⚡
   </a>
 </div>
 
-https://raw.githubusercontent.com/CLorant/readme-social-icons/main/https://github.com/user-attachments/assets/1517126d-6e73-4677-828d-3aa26bbbfea4
+https://raw.githubusercontent.com/CLorant/readme-social-icons/main/![image](https://github.com/user-attachments/assets/3be6caf6-a689-4369-aaee-0abdd4b5f4b5)
+
 
 ------------------------------
 
