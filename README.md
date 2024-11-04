@@ -14,6 +14,8 @@
 
 -languages: Java, Python, and C#💻
 
+-Platforms I work on: VScode, WPILIB, and Unity
+
 -Working on image recognition, game development, 
  AI models, and web development ⌨️
 
