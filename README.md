@@ -12,9 +12,9 @@
 
 -2 years of programming experience 👨‍💻 
 
--Currently learning Java and Python 💻
+-languages: Java, Python, and C#💻
 
--Working on image recognition, and web development ⌨️
+-Working on image recognition, AI models, and web development ⌨️
 
 Personal Projects🖥️
 -----------------------------------------
