@@ -14,7 +14,8 @@
 
 -languages: Java, Python, and C#💻
 
--Working on image recognition, AI models, and web development ⌨️
+-Working on image recognition, game development, 
+ AI models, and web development ⌨️
 
 Personal Projects🖥️
 -----------------------------------------
