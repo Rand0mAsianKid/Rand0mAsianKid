@@ -49,6 +49,8 @@ Stats📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rand0mAsianKid&theme=dark&show_size_weight=0.5&count_weight=0.5)
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Rand0mAsianKid&theme=react-dark&hide_border=true&area=true)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rand0mAsianKid&theme=tokyonight" alt="mystreak"/>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Rand0mAsianKid)
