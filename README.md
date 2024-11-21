@@ -46,14 +46,13 @@ Stats📊
 ------------------------------
 ![Rand0mAsianKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rand0mAsianKid&theme=dark&show_icons=true)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rand0mAsianKid&theme=dark&show_size_weight=0.5&count_weight=0.5)
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rand0mAsianKid&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Rand0mAsianKid&theme=juicyfresh&no-bg=true" />
 
-![Snake animation](https://github.com/Rand0mAsianKid/github-readme/blob/output/github-contribution-snake.svg)
+![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=RobotCode2024&color=COLOR)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Rand0mAsianKid)
 
