@@ -52,6 +52,4 @@ Stats📊
 
 ![](https://komarev.com/ghpvc/?username=your-github-Rand0mAsianKid)
 
-https://github.com/pulls?q=is%3Apr+author%3A<GitHub Rand0mAsianKid>
-
 
