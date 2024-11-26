@@ -21,7 +21,7 @@
 
 Personal Projects🖥️
 -----------------------------------------
-[IPSR🌱](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): A Flask website that uses the ChatGPT API to detect and recognize invasive plant species.
+[IPSR🌱](https://github.com/Rand0mAsianKid/Invasive-Plant-Species-Image-Recognition-Website): A Flask website that uses the TensorFlow Image Classification to detect and recognize invasive plant species.
 
 [SAT Website Checker📃](https://github.com/Rand0mAsianKid/SAT-Website-Checker): An application that checks the College Board SAT site for any updates and emails the users if it sees changes
 
