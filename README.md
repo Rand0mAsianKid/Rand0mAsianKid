@@ -29,8 +29,10 @@ Contributed To
 ------------------------------
 [RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
+[RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2025): Code for the 2025 Leviathan robot
+
 Social Media⚡
------------------------------
+----------------------------------------------------------
 <div id="badges">
   <a href="(https://www.linkedin.com/in/matthew-lum-75a45b305/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,7 +42,7 @@ Social Media⚡
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-------------------------------
+-----------------------------------------------------------
 
 Stats📊
 ------------------------------
