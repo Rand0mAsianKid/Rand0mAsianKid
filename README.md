@@ -10,7 +10,7 @@
 
 -Robotics mentor for VEX IQ WeRobots 🤖 
 
--2 years of programming experience 👨‍💻 
+-3 years of programming experience 👨‍💻 
 
 -languages: Java, Python, and C#💻
 
