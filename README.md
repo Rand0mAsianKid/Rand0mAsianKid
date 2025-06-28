@@ -29,7 +29,7 @@ Contributed To
 ------------------------------
 [RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2024): Code for the 2024 Hammerhead robot
 
-[RobotCode2024🦈](https://github.com/DeepBlueRobotics/RobotCode2025): Code for the 2025 Leviathan robot
+[RobotCode2025🦈](https://github.com/DeepBlueRobotics/RobotCode2025): Code for the 2025 Leviathan robot
 
 Social Media⚡
 ----------------------------------------------------------
